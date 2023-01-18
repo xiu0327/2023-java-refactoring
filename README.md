@@ -4,5 +4,10 @@
 
 ## 스터디 내용
 
-- 1월 18일 : [Chapter1. 맛보기 예제](demo/study/맛보기_예제.md)
+- 1월 18일 
+  - [Chapter1. 맛보기 예제](demo/study/맛보기_예제.md)
+  - [Chapter2. 리팩토링 개론](demo/study/리팩토링_개론.md)
+  - [Chapter3. 코드의 구린내](demo/study/코드의_구린내.md)
+  - [Chapter4. 테스트 작성](demo/study/테스트_작성.md)
+
 
